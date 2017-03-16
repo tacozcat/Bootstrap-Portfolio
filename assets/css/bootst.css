@@ -1,0 +1,45 @@
+
+
+    body{
+    	
+    	font-family:'Exo', sans-serif;
+        
+    	/*background: #ccffe6;*/
+        background-image: url("../images/skulls.png");
+        line-height: 2;
+
+    }
+
+    
+    .navbar-default{
+    	
+
+    }
+
+    .brand{
+    	border-bottom: 5px solid black;
+    }
+
+    footer{
+    	text-align: center;
+    	background: #dee8d7;
+    	padding: 10px;
+    	border-top: 5px solid white;
+    }
+
+/*    h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}*/
+
+
+  
